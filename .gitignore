@@ -1,0 +1,36 @@
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+*.dbf
+
+# Backup files
+*.bak
+*.backup
+*.sql~
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Environment
+.env
+.env.local
+
+# Connection strings
+connection_strings.txt
+config.ini
